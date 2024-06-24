@@ -7,7 +7,7 @@ const $resultTextTop = document.getElementsByClassName('box-wrapper__result__tex
 const $resultTitle = document.getElementsByClassName('box-wrapper__result__title')[0];
 const $twitterShareButton = document.getElementById('twitter-button');
 const $whatsappShareButton = document.getElementById('whatsapp-button');
-const url = '';
+const url = 'https://cekkhodam.site';
 const khodams = [
   'alok jumsot',
   'kebab',
